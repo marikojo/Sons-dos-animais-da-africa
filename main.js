@@ -31,3 +31,20 @@ function tocaSomLeão() {
     document.querySelector('#som_tecla_leão').play();
 }
 document.querySelector('tecla_leão').onclick = tocaSomLeão;
+
+function tocaSomRinoceronte() {
+    document.querySelector('#som_tecla_rinoceronte').play();
+}
+document.querySelector('tecla_búfalo').onclick = tocaSomBúfala;
+
+
+function tocaSomLeopardo() {
+    document.querySelector('#som_tecla_leopardo').play();
+}
+document.querySelector('tecla_leopardo').onclick = tocaSomLeopardo;
+
+
+function tocaSomLeão() {
+    document.querySelector('#som_tecla_leão').play();
+}
+document.querySelector('tecla_leão').onclick = tocaSomLeão;
